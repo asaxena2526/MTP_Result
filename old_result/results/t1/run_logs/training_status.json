@@ -1,0 +1,24 @@
+{
+    "SampleScene": {
+        "checkpoints": [
+            {
+                "steps": 76224,
+                "file_path": "results/t1/SampleScene/SampleScene-76224.onnx",
+                "reward": null,
+                "creation_time": 1617178425.2579691
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 76224,
+            "file_path": "results/t1/SampleScene.onnx",
+            "reward": null,
+            "creation_time": 1617178425.2579691
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": "2.0.0"
+    }
+}

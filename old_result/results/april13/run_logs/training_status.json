@@ -1,0 +1,36 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 499992,
+                "file_path": "results/april13/AmanAaditya/AmanAaditya-499992.onnx",
+                "reward": null,
+                "creation_time": 1619535057.0210948
+            },
+            {
+                "steps": 999896,
+                "file_path": "results/april13/AmanAaditya/AmanAaditya-999896.onnx",
+                "reward": null,
+                "creation_time": 1619538506.313006
+            },
+            {
+                "steps": 1000664,
+                "file_path": "results/april13/AmanAaditya/AmanAaditya-1000664.onnx",
+                "reward": null,
+                "creation_time": 1619538506.387889
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000664,
+            "file_path": "results/april13/AmanAaditya.onnx",
+            "reward": null,
+            "creation_time": 1619538506.387889
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": "2.0.0"
+    }
+}

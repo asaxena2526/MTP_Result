@@ -1,0 +1,24 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 292608,
+                "file_path": "results/april9/AmanAaditya/AmanAaditya-292608.onnx",
+                "reward": null,
+                "creation_time": 1619436517.4236426
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 292608,
+            "file_path": "results/april9/AmanAaditya.onnx",
+            "reward": null,
+            "creation_time": 1619436517.4236426
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": "2.0.0"
+    }
+}
