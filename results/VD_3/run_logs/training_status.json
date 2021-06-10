@@ -1,0 +1,48 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results/VD_3/AmanAaditya/AmanAaditya-499968.onnx",
+                "reward": null,
+                "creation_time": 1623329097.7717037
+            },
+            {
+                "steps": 999968,
+                "file_path": "results/VD_3/AmanAaditya/AmanAaditya-999968.onnx",
+                "reward": null,
+                "creation_time": 1623332730.3928778
+            },
+            {
+                "steps": 1499968,
+                "file_path": "results/VD_3/AmanAaditya/AmanAaditya-1499968.onnx",
+                "reward": null,
+                "creation_time": 1623336546.8545947
+            },
+            {
+                "steps": 1999968,
+                "file_path": "results/VD_3/AmanAaditya/AmanAaditya-1999968.onnx",
+                "reward": null,
+                "creation_time": 1623339971.577216
+            },
+            {
+                "steps": 2000512,
+                "file_path": "results/VD_3/AmanAaditya/AmanAaditya-2000512.onnx",
+                "reward": 39.0,
+                "creation_time": 1623339971.6623974
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000512,
+            "file_path": "results/VD_3/AmanAaditya.onnx",
+            "reward": 39.0,
+            "creation_time": 1623339971.6623974
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.1",
+        "tensorflow_version": "2.0.0"
+    }
+}
