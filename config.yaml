@@ -9,26 +9,22 @@ behaviors:
             epsilon: 0.2
             lambd: 0.95
             num_epoch: 8
-            learning_rate_schedule: constant
+            learning_rate_schedule: linear
         network_settings:
             normalize: false
             hidden_units: 256
-            num_layers: 2
+            num_layers: 3
             vis_encode_type: simple
         reward_signals:
             extrinsic:
                 gamma: 0.99
                 strength: 1
             curiosity:
-                strength: 0.025
+                strength: 0.02
                 gamma: 0.99
                 learning_rate: 0.0003      
-            gail:
-                strength: 0.7
-                demo_path: /home/tonystark/MTP_AadityaAman/UNity_Env/MTP_Env/Assets/Demonstrations/AmanAaditya_1.demo
         keep_checkpoints: 5
-        max_steps: 5000000
+        max_steps: 2000000
         time_horizon: 128
         summary_freq: 5000
         threaded: true
-
