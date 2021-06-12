@@ -1,0 +1,65 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results/RVD_X/AmanAaditya/AmanAaditya-499968.onnx",
+                "reward": null,
+                "creation_time": 1623485955.907458,
+                "auxillary_file_paths": [
+                    "results/RVD_X/AmanAaditya/AmanAaditya-499968.pt"
+                ]
+            },
+            {
+                "steps": 999968,
+                "file_path": "results/RVD_X/AmanAaditya/AmanAaditya-999968.onnx",
+                "reward": null,
+                "creation_time": 1623489352.8809311,
+                "auxillary_file_paths": [
+                    "results/RVD_X/AmanAaditya/AmanAaditya-999968.pt"
+                ]
+            },
+            {
+                "steps": 1499968,
+                "file_path": "results/RVD_X/AmanAaditya/AmanAaditya-1499968.onnx",
+                "reward": null,
+                "creation_time": 1623492460.0580478,
+                "auxillary_file_paths": [
+                    "results/RVD_X/AmanAaditya/AmanAaditya-1499968.pt"
+                ]
+            },
+            {
+                "steps": 1999968,
+                "file_path": "results/RVD_X/AmanAaditya/AmanAaditya-1999968.onnx",
+                "reward": null,
+                "creation_time": 1623495171.9436402,
+                "auxillary_file_paths": [
+                    "results/RVD_X/AmanAaditya/AmanAaditya-1999968.pt"
+                ]
+            },
+            {
+                "steps": 2001024,
+                "file_path": "results/RVD_X/AmanAaditya/AmanAaditya-2001024.onnx",
+                "reward": 69.0,
+                "creation_time": 1623495172.134283,
+                "auxillary_file_paths": [
+                    "results/RVD_X/AmanAaditya/AmanAaditya-2001024.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2001024,
+            "file_path": "results/RVD_X/AmanAaditya.onnx",
+            "reward": 69.0,
+            "creation_time": 1623495172.134283,
+            "auxillary_file_paths": [
+                "results/RVD_X/AmanAaditya/AmanAaditya-2001024.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
