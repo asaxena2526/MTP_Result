@@ -1,0 +1,65 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 8499968,
+                "file_path": "results/ppo/AmanAaditya/AmanAaditya-8499968.onnx",
+                "reward": 68.80000177025795,
+                "creation_time": 1623571153.1730886,
+                "auxillary_file_paths": [
+                    "results/ppo/AmanAaditya/AmanAaditya-8499968.pt"
+                ]
+            },
+            {
+                "steps": 8999968,
+                "file_path": "results/ppo/AmanAaditya/AmanAaditya-8999968.onnx",
+                "reward": null,
+                "creation_time": 1623572709.6116729,
+                "auxillary_file_paths": [
+                    "results/ppo/AmanAaditya/AmanAaditya-8999968.pt"
+                ]
+            },
+            {
+                "steps": 9499968,
+                "file_path": "results/ppo/AmanAaditya/AmanAaditya-9499968.onnx",
+                "reward": 93.59999960660934,
+                "creation_time": 1623574263.307778,
+                "auxillary_file_paths": [
+                    "results/ppo/AmanAaditya/AmanAaditya-9499968.pt"
+                ]
+            },
+            {
+                "steps": 9999968,
+                "file_path": "results/ppo/AmanAaditya/AmanAaditya-9999968.onnx",
+                "reward": 83.90000051259995,
+                "creation_time": 1623575853.293602,
+                "auxillary_file_paths": [
+                    "results/ppo/AmanAaditya/AmanAaditya-9999968.pt"
+                ]
+            },
+            {
+                "steps": 10000096,
+                "file_path": "results/ppo/AmanAaditya/AmanAaditya-10000096.onnx",
+                "reward": 83.90000051259995,
+                "creation_time": 1623575853.418859,
+                "auxillary_file_paths": [
+                    "results/ppo/AmanAaditya/AmanAaditya-10000096.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000096,
+            "file_path": "results/ppo/AmanAaditya.onnx",
+            "reward": 83.90000051259995,
+            "creation_time": 1623575853.418859,
+            "auxillary_file_paths": [
+                "results/ppo/AmanAaditya/AmanAaditya-10000096.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1"
+    }
+}
