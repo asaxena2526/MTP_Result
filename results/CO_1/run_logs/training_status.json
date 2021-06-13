@@ -1,0 +1,65 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 8499888,
+                "file_path": "results/CO_1/AmanAaditya/AmanAaditya-8499888.onnx",
+                "reward": null,
+                "creation_time": 1623563504.3988903,
+                "auxillary_file_paths": [
+                    "results/CO_1/AmanAaditya/AmanAaditya-8499888.pt"
+                ]
+            },
+            {
+                "steps": 8999962,
+                "file_path": "results/CO_1/AmanAaditya/AmanAaditya-8999962.onnx",
+                "reward": null,
+                "creation_time": 1623565644.1925201,
+                "auxillary_file_paths": [
+                    "results/CO_1/AmanAaditya/AmanAaditya-8999962.pt"
+                ]
+            },
+            {
+                "steps": 9499920,
+                "file_path": "results/CO_1/AmanAaditya/AmanAaditya-9499920.onnx",
+                "reward": 85.8000001013279,
+                "creation_time": 1623567756.7692454,
+                "auxillary_file_paths": [
+                    "results/CO_1/AmanAaditya/AmanAaditya-9499920.pt"
+                ]
+            },
+            {
+                "steps": 9999927,
+                "file_path": "results/CO_1/AmanAaditya/AmanAaditya-9999927.onnx",
+                "reward": null,
+                "creation_time": 1623569735.789464,
+                "auxillary_file_paths": [
+                    "results/CO_1/AmanAaditya/AmanAaditya-9999927.pt"
+                ]
+            },
+            {
+                "steps": 10000055,
+                "file_path": "results/CO_1/AmanAaditya/AmanAaditya-10000055.onnx",
+                "reward": null,
+                "creation_time": 1623569735.9574077,
+                "auxillary_file_paths": [
+                    "results/CO_1/AmanAaditya/AmanAaditya-10000055.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000055,
+            "file_path": "results/CO_1/AmanAaditya.onnx",
+            "reward": null,
+            "creation_time": 1623569735.9574077,
+            "auxillary_file_paths": [
+                "results/CO_1/AmanAaditya/AmanAaditya-10000055.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
