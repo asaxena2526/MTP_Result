@@ -1,0 +1,65 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 1999968,
+                "file_path": "results/CO_1_EG_2/AmanAaditya/AmanAaditya-1999968.onnx",
+                "reward": -127.8000003695488,
+                "creation_time": 1623606659.4767053,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2/AmanAaditya/AmanAaditya-1999968.pt"
+                ]
+            },
+            {
+                "steps": 2499968,
+                "file_path": "results/CO_1_EG_2/AmanAaditya/AmanAaditya-2499968.onnx",
+                "reward": -21.700000315904617,
+                "creation_time": 1623608703.246962,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2/AmanAaditya/AmanAaditya-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2999968,
+                "file_path": "results/CO_1_EG_2/AmanAaditya/AmanAaditya-2999968.onnx",
+                "reward": null,
+                "creation_time": 1623610742.054692,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2/AmanAaditya/AmanAaditya-2999968.pt"
+                ]
+            },
+            {
+                "steps": 3499968,
+                "file_path": "results/CO_1_EG_2/AmanAaditya/AmanAaditya-3499968.onnx",
+                "reward": null,
+                "creation_time": 1623612774.6252553,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2/AmanAaditya/AmanAaditya-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3510816,
+                "file_path": "results/CO_1_EG_2/AmanAaditya/AmanAaditya-3510816.onnx",
+                "reward": -60.39999973773956,
+                "creation_time": 1623612814.0686166,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2/AmanAaditya/AmanAaditya-3510816.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3510816,
+            "file_path": "results/CO_1_EG_2/AmanAaditya.onnx",
+            "reward": -60.39999973773956,
+            "creation_time": 1623612814.0686166,
+            "auxillary_file_paths": [
+                "results/CO_1_EG_2/AmanAaditya/AmanAaditya-3510816.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1"
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1623613422",
+        "python_version": "3.7.4 (default, Aug 13 2019, 20:35:49) \n[GCC 7.3.0]",
+        "command_line_arguments": "/home/tonystark/anaconda3/bin/mlagents-learn ../MTP_Env/config.yaml --run-id=CO_1_EG_1_DR_1 --env=../Envs/CO_1_EG_1_DR_1 --num-envs=2 --base-port 4015",
+        "mlagents_version": "0.27.0",
+        "mlagents_envs_version": "0.27.0",
+        "communication_protocol_version": "1.5.0",
+        "pytorch_version": "1.7.1",
+        "numpy_version": "1.17.2",
+        "end_time_seconds": "1623613422"
+    },
+    "total": 0.08291282202117145,
+    "count": 1,
+    "self": 0.006959999038372189,
+    "children": {
+        "run_training.setup": {
+            "total": 0.07114480796735734,
+            "count": 1,
+            "self": 0.07114480796735734
+        },
+        "TrainerController.start_learning": {
+            "total": 0.004808015015441924,
+            "count": 1,
+            "self": 0.0002880619722418487,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 0.004508346028160304,
+                    "count": 1,
+                    "self": 0.004508346028160304
+                },
+                "trainer_threads": {
+                    "total": 1.1220108717679977e-06,
+                    "count": 1,
+                    "self": 1.1220108717679977e-06
+                },
+                "TrainerController._save_models": {
+                    "total": 1.0485004168003798e-05,
+                    "count": 1,
+                    "self": 1.0485004168003798e-05
+                }
+            }
+        }
+    }
+}

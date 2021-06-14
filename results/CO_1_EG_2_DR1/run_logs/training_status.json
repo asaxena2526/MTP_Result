@@ -1,0 +1,65 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 8499968,
+                "file_path": "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-8499968.onnx",
+                "reward": null,
+                "creation_time": 1623642914.6862514,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-8499968.pt"
+                ]
+            },
+            {
+                "steps": 8999968,
+                "file_path": "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-8999968.onnx",
+                "reward": null,
+                "creation_time": 1623644641.7202814,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-8999968.pt"
+                ]
+            },
+            {
+                "steps": 9499968,
+                "file_path": "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-9499968.onnx",
+                "reward": -44.019999999552965,
+                "creation_time": 1623646367.2103689,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-9499968.pt"
+                ]
+            },
+            {
+                "steps": 9999968,
+                "file_path": "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-9999968.onnx",
+                "reward": null,
+                "creation_time": 1623648096.0160336,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-9999968.pt"
+                ]
+            },
+            {
+                "steps": 10000992,
+                "file_path": "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-10000992.onnx",
+                "reward": null,
+                "creation_time": 1623648096.2206187,
+                "auxillary_file_paths": [
+                    "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-10000992.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000992,
+            "file_path": "results/CO_1_EG_2_DR1/AmanAaditya.onnx",
+            "reward": null,
+            "creation_time": 1623648096.2206187,
+            "auxillary_file_paths": [
+                "results/CO_1_EG_2_DR1/AmanAaditya/AmanAaditya-10000992.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1"
+    }
+}
