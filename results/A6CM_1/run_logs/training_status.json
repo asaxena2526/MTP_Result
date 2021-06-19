@@ -1,0 +1,65 @@
+{
+    "AmanAaditya": {
+        "checkpoints": [
+            {
+                "steps": 8499968,
+                "file_path": "results/A6CM_1/AmanAaditya/AmanAaditya-8499968.onnx",
+                "reward": 87.80000066757202,
+                "creation_time": 1624069523.3142378,
+                "auxillary_file_paths": [
+                    "results/A6CM_1/AmanAaditya/AmanAaditya-8499968.pt"
+                ]
+            },
+            {
+                "steps": 8999888,
+                "file_path": "results/A6CM_1/AmanAaditya/AmanAaditya-8999888.onnx",
+                "reward": null,
+                "creation_time": 1624070981.216821,
+                "auxillary_file_paths": [
+                    "results/A6CM_1/AmanAaditya/AmanAaditya-8999888.pt"
+                ]
+            },
+            {
+                "steps": 9499936,
+                "file_path": "results/A6CM_1/AmanAaditya/AmanAaditya-9499936.onnx",
+                "reward": null,
+                "creation_time": 1624072450.4915853,
+                "auxillary_file_paths": [
+                    "results/A6CM_1/AmanAaditya/AmanAaditya-9499936.pt"
+                ]
+            },
+            {
+                "steps": 9999968,
+                "file_path": "results/A6CM_1/AmanAaditya/AmanAaditya-9999968.onnx",
+                "reward": 100.45000183582306,
+                "creation_time": 1624073917.6023607,
+                "auxillary_file_paths": [
+                    "results/A6CM_1/AmanAaditya/AmanAaditya-9999968.pt"
+                ]
+            },
+            {
+                "steps": 10000096,
+                "file_path": "results/A6CM_1/AmanAaditya/AmanAaditya-10000096.onnx",
+                "reward": 100.45000183582306,
+                "creation_time": 1624073917.725545,
+                "auxillary_file_paths": [
+                    "results/A6CM_1/AmanAaditya/AmanAaditya-10000096.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000096,
+            "file_path": "results/A6CM_1/AmanAaditya.onnx",
+            "reward": 100.45000183582306,
+            "creation_time": 1624073917.725545,
+            "auxillary_file_paths": [
+                "results/A6CM_1/AmanAaditya/AmanAaditya-10000096.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.8.1+cu102"
+    }
+}
